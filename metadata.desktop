@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Flatland
+
+X-KDE-PluginInfo-Author=Gabriel Trisca
+X-KDE-PluginInfo-Email=gabrieltrisca@gmail.com
+X-KDE-PluginInfo-Name=flatland
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=tog000.io
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
